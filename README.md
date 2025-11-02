@@ -9,7 +9,7 @@
   </tr>
   <tr>
     <td><b>Kelas</b></td>
-    <td>TIF K 23</td>
+    <td>TIF K 23B</td>
   </tr>
   <tr>
     <td><b>Tugas</b></td>
