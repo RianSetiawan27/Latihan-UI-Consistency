@@ -1,7 +1,7 @@
-tugas UI Consistensy
-Nama    : Rian Setiawan
-NIM     : 24552012025
-Kelas   : TIF K 23 
+Tugas UI Consistency <br>
+Nama  : Rian Setiawan <br>
+NIM   : 24552012025 <br>
+Kelas : TIF K 23B
 
 berikut adalah beberapa tampilannya:
 ![alt text](https://github.com/RianSetiawan27/Latihan-UI-Consistency/blob/main/assets/images/gambar%201.jpg?raw=true)
